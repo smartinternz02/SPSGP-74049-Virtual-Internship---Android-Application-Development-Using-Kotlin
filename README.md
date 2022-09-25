@@ -1,6 +1,6 @@
 # SPSGP-74049-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
-                                          My Grocery Inventory App Document
+                                          My Grocery Inventory App 
 
 This Android App That helps to make a list of Grocery item along with item Price and item Quantity
 The main Purpose of this app, There are number of grocery items to buy, but sometimes we forget the things
